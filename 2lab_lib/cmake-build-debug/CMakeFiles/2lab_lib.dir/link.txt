@@ -1,0 +1,2 @@
+/usr/bin/ar.exe qc lib2lab_lib.a  CMakeFiles/2lab_lib.dir/Cissoid.cpp.o CMakeFiles/2lab_lib.dir/UI.cpp.o
+/usr/bin/ranlib.exe lib2lab_lib.a

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/User/Desktop/3semestry/C++/2lab/2lab_lib/Cissoid.h
+iostream
+-
+cmath
+-
+
+/cygdrive/c/Users/User/Desktop/3semestry/C++/2lab/2lab_lib/UI.h
+iostream
+-
+Cissoid.h
+/cygdrive/c/Users/User/Desktop/3semestry/C++/2lab/2lab_lib/Cissoid.h
+
+/cygdrive/c/Users/User/Desktop/3semestry/C++/2lab/2lab_main/main.cpp
+iostream
+-
+../2lab_lib/UI.h
+/cygdrive/c/Users/User/Desktop/3semestry/C++/2lab/2lab_lib/UI.h
+
